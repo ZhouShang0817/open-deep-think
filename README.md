@@ -1,4 +1,4 @@
-# Open Deep Think
+# OpenDeepThink
 
 ## Overview
 
