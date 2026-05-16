@@ -1,8 +1,5 @@
 # Open Deep Think
 
-Anonymous code release for NeurIPS 2026 submission:
-*Open Deep Think: Parallel Reasoning via Bradley–Terry Aggregation*
-
 ## Overview
 
 A population-based test-time compute framework that evolves LLM-generated solutions
